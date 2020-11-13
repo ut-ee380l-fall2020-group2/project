@@ -5,7 +5,9 @@ Work for Fall 2020 Data Mining project
 
 - Clone this project.
 - Clone our fork of FMA.
-- `pip install -e FMA_DIR` where `FMA_DIR` is the directory in which you cloned FMA.
+- Install all dependencies as necessary to run the scripts
+  - **TODO: provide file listing dependencies, maybe requirements.txt**
+- Install FFMPEG and add `bin/` dir to `PATH`
 
 ## Usage
 
